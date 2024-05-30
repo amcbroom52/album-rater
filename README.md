@@ -8,7 +8,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Postgres][PostgreSQL]][PostgreSQL-url]
+* [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
