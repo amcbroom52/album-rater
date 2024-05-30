@@ -28,7 +28,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 Album Scales is a full-stack social web application that seamlessly integrates with Spotify's Web API, providing users with a platform to interact with Spotify's vast repository of music data. Designed to foster a community around music exploration and appreciation, Album Scales offers a range of features to enhance the user experience.
 
 ## Key Features
@@ -50,13 +49,34 @@ Album Scales is a full-stack social web application that seamlessly integrates w
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Initial instructions go here...
-
-### Prerequisites
-Prerequisites go here...
+To setup the development environment for Album Scales on your computer, follow the steps below:
 
 ### Installation
-Installation instructions go here... 
+1. Get a free Spotify Web API token at [Spotify Web API](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
+
+2. Clone the repository
+  ```sh
+  git clone https://github.com/amcbroom52/album-scales.git
+  ```
+3. Create your venv
+  ```sh
+  python3 -m venv venv
+  ```
+4. Activate your venv
+  ```sh
+  source venv/bin/activate
+  ```
+5. Install the dependencies
+  ```sh
+  pip3 install -r requirements.txt
+  ```
+6. Create your database
+  ```sh
+  psql
+  CREATE DATABASE album_rater
+  ```
+
+
 
 <!-- DEPLOYMENT -->
 ## Deployment
@@ -92,5 +112,5 @@ Project Link: https://github.com/amcbroom52/album-rater
 [Python-url]: https://www.python.org/
 [Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
-[Spotify]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+[Spotify]: https://img.shields.io/badge/Spotify_Web_API-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 [SpotifyAPI-url]: https://developer.spotify.com/documentation/web-api
