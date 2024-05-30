@@ -54,7 +54,7 @@ Installation instructions go here...
 <!-- DEPLOYMENT -->
 ## Deployment
 
-URL: https://album-rater.onrender.com/
+[Album Scales website](https://album-rater.onrender.com/)
 
 ### Test User Login
 
