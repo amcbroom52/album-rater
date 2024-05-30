@@ -29,6 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Description goes here...
 
 ### Built With
 
@@ -42,7 +43,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Description goes here...
+Initial instructions go here...
 
 ### Prerequisites
 Prerequisites go here...
