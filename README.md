@@ -42,18 +42,25 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
+Description goes here...
 
 ### Prerequisites
+Prerequisites go here...
 
 ### Installation
+Installation instructions go here... 
 
-<!-- Deployment -->
+<!-- DEPLOYMENT -->
 ## Deployment
+
+URL: https://album-rater.onrender.com/
 
 ### Test User Login
 
+Login Info goes here...
+
 <!-- CONTACT -->
-##Contact
+## Contact
 
 Adrian McBroom - [LinkedIn](https://www.linkedin.com/in/adrian-mcbroom/) - adrianmcb2000@gmail.com
 
