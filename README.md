@@ -52,7 +52,7 @@ Album Scales is a full-stack social web application that seamlessly integrates w
 To setup the development environment for Album Scales on your computer, follow the steps below:
 
 ### Installation
-1. Get a free Spotify Web API token at [Spotify Web API](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
+1. Get a free Spotify Web API client_id and client_secret at [Spotify Web API](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)
 
 2. Clone the repository
   ```sh
@@ -72,10 +72,14 @@ To setup the development environment for Album Scales on your computer, follow t
   ```
 6. Create your database
   ```sh
-  psql
-  CREATE DATABASE album_rater
+  createdb album_rater
   ```
-
+7. Create a .env file
+  ```env
+  CLIENT_ID = [YOUR SPOTIFY CLIENT_ID]
+  CLIENT_SECRET = [YOUR SPOTIFY CLIENT_SECRET]
+  SECRET_KEY = [SOME SECURE SECRET KEY]
+  ```
 
 
 <!-- DEPLOYMENT -->
@@ -85,7 +89,9 @@ To setup the development environment for Album Scales on your computer, follow t
 
 ### Test User Login
 
-Login Info goes here...
+**Username:** testusername
+
+**Password:** password
 
 <!-- CONTACT -->
 ## Contact
