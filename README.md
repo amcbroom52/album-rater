@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -24,8 +26,6 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
-<a name="readme-top"></a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
