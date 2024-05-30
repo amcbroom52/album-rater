@@ -8,7 +8,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* ![PostgreSQL]
+* [![Postgres][PostgreSQL]][PostgreSQL-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -18,6 +18,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [PostgreSQL]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
 [Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [Spotify]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
