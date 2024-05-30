@@ -5,13 +5,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#key-features">Key Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -30,7 +30,7 @@
 ## About The Project
 Album Scales is a full-stack social web application that seamlessly integrates with Spotify's Web API, providing users with a platform to interact with Spotify's vast repository of music data. Designed to foster a community around music exploration and appreciation, Album Scales offers a range of features to enhance the user experience.
 
-## Key Features
+### Key Features
 * **User Interaction:** Follow other users, view ratings from followed users, and search for users, albums, and artists.
 * **Profile Management:** Edit your profile details to personalize your experience on the platform.
 * **Rating System:** Post ratings for albums to share your opinions and contribute to the community's collective knowledge.
@@ -46,6 +46,8 @@ Album Scales is a full-stack social web application that seamlessly integrates w
 * [![SpotifyAPI][Spotify]][SpotifyAPI-url]
 * [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -81,6 +83,7 @@ To setup the development environment for Album Scales on your computer, follow t
   SECRET_KEY = [SOME SECURE SECRET KEY]
   ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DEPLOYMENT -->
 ## Deployment
@@ -93,6 +96,8 @@ To setup the development environment for Album Scales on your computer, follow t
 
 **Password:** password
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 
@@ -100,7 +105,7 @@ Adrian McBroom - [LinkedIn](https://www.linkedin.com/in/adrian-mcbroom/) - adria
 
 Project Link: https://github.com/amcbroom52/album-rater
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
