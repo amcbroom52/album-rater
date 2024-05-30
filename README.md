@@ -29,7 +29,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Description goes here...
+Album Scales is a full-stack social web application that seamlessly integrates with Spotify's Web API, providing users with a platform to interact with Spotify's vast repository of music data. Designed to foster a community around music exploration and appreciation, Album Scales offers a range of features to enhance the user experience.
+
+## Key Features
+User Interaction: Follow other users, view ratings from followed users, and search for users, albums, and artists.
+Profile Management: Edit your profile details to personalize your experience on the platform.
+Rating System: Post ratings for albums to share your opinions and contribute to the community's collective knowledge.
+Album Information: Access comprehensive information about specific albums, including aggregated ratings from users.
+User Profiles: Explore individual user profiles to see all the ratings they have posted, facilitating discovery and discussion.
 
 ### Built With
 
